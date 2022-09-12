@@ -1,5 +1,7 @@
 # AUTO-COOKICE
 
+- - ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/Developer.gif
+
 ```
 pkg update
 
