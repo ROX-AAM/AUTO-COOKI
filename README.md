@@ -14,7 +14,7 @@ pkg install python
 
 pkg install git
 
-git clone https://github.com/maminhaz60/AUTO-COOKI
+git clone https://github.com/ROX-AAM/AUTO-COOKI
 
 cd AUTO-COOKI
 
